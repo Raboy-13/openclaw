@@ -1,0 +1,18 @@
+﻿# MemPalace - large binary DB, regenerate on new machine
+.mempalace/
+
+# Large debug image
+wall_debug_latest.png
+
+# OpenClaw agent state (session-specific)
+.openclaw/
+
+# ClawHub cache
+.clawhub/
+
+# Empty state dir
+state/
+
+# OS files
+.DS_Store
+Thumbs.db

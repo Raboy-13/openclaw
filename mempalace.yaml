@@ -1,0 +1,10 @@
+wing: workspace
+rooms:
+- name: memory
+  description: Files from memory/
+- name: skills
+  description: Files from skills/
+- name: state
+  description: Files from state/
+- name: general
+  description: Files that do not fit other rooms
